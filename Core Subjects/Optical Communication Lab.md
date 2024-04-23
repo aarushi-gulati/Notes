@@ -20,4 +20,5 @@ Light needs to travel from ==denser to rarer medium. ==
 ==Angle of incidence <= Critical Angle==
 
 #### Relative Refractive index
-![[../Meta/Pasted image 20240423192327.png]]
+![](../Meta/Pasted%20image%2020240423192604.png)
+
