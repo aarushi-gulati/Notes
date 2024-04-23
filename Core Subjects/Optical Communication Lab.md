@@ -16,4 +16,8 @@ Due to properties of Silica, losses are maximum at 1400 nm.
 It cannot be used for broadcasting. 
 
 #### Total Internal Reflection 
+Light needs to travel from ==denser to rarer medium. ==
+==Angle of incidence <= Critical Angle==
 
+#### Relative Refractive index
+![[../Meta/Pasted image 20240423192327.png]]
