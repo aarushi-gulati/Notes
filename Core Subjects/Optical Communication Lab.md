@@ -229,9 +229,13 @@ Energy conservation ke lie light photon will be generated.
 
 ### Quantum Efficiency of Optical Source
 Ratio of injected electron-hole pairs that combine radiatively. 
+
 ![](../Meta/Pasted%20image%2020240423222505.png)
+
 ![](../Meta/Pasted%20image%2020240423222531.png)
+
 The two recombination processes happen in parallel and so:
+
 ![](../Meta/Pasted%20image%2020240423222602.png)
 ![](../Meta/Pasted%20image%2020240423222619.png)
 
