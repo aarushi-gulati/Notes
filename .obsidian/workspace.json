@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "8a6ead3dd6fc44e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0ea2b131e76e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b29d6207914daa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Subjects/Microwave Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e55f8192af3f15d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Subjects/Optical Communication Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77cc1ad6cbf9b419",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bbd84cd110435f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7770407ece45a24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18ef68010f5bf55d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba012741ab1c344",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "73db5a77858365f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a2ac2f434810af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9570c5c43d12f170",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Core Subjects/Optical Communication Lab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef3c1ce65a8f285b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Core Subjects/Optical Communication Lab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d5c22ba76168e3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44f75f273c792577",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core Subjects/Optical Communication Lab.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e55f8192af3f15d9",
+  "lastOpenFiles": [
+    "Core Subjects/Microwave Lab.md",
+    "Core Subjects/Optical Communication Lab.md",
+    "Meta/Pasted image 20240423093526.png",
+    "Meta/Pasted image 20240423074702.png",
+    "Meta/Pasted image 20240423074632.png",
+    "Meta/Pasted image 20240423074610.png",
+    "Meta/Pasted image 20240423074038.png",
+    "Meta/Pasted image 20240423072942.png",
+    "Meta/Pasted image 20240423072748.png",
+    "Meta/Pasted image 20240423072709.png",
+    "Meta/Pasted image 20240423071433.png",
+    "Meta/Pasted image 20240423070956.png",
+    "DSA/Queue Concepts.md",
+    "DSA/Stack Concepts.md",
+    "DSA/LinkedList Concepts.md",
+    "DSA/Array Concepts.md",
+    "Core Subjects/Computer Networks.md",
+    "DSA/Graph Concepts.md",
+    "DSA/Dynamic Programming.md",
+    "ECE/Optical Communication.md",
+    "Web Development/React.md",
+    "Web Development/Django.md",
+    "ECE",
+    "Randoms/Admin_View.md",
+    "Randoms",
+    "Web Development",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-01-02.md",
+    "Core Subjects",
+    "Meta",
+    "DSA",
+    "DSA/Dynammic Programming.md"
+  ]
+}
