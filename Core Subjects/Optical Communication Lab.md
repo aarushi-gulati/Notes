@@ -123,27 +123,34 @@ It's uniform for a particular wavelength once the material composition is finali
 
 For a source of spectral width sigma, 
 ![](../Meta/Pasted%20image%2020240423212345.png)
+
 As evident, kam spectral width pe kam dispersion hoga -> LASER me kam hoga as compared to LED. 
+
 ![](../Meta/Pasted%20image%2020240423212436.png)
 
 ### Waveguide Dispersion 
 Arises due to the confinement of light within the fibre core and he way different wavelengths propagate at slightly different speeds. 
 
 Offered because group velocity is a non-linear function of frequency through its dependence on the structure of the waveguide. 
+
 ![](../Meta/Pasted%20image%2020240423212737.png)
+
 To control dispersion, we tailor the waveguide dispersion so that its shape cancels the material dispersion at one or more wavelengths.
 
 ## Types of single mode fibres 
 
 ### Conventional Single Mode Fibre (CSMF)
 ![](../Meta/Pasted%20image%2020240423213002.png)
+
 1310nm par the waveguide dispersion cancels out the material dispersion. 
 But it exhibits rather high dispersion at 1550 nm which is bad becausemodern light wave systems prefer operation near the 1550 nm window because of low attenuation and availability of commercial optical amplifiers. 
 
 Also, transmission capacity is low because fibre is ready to transfer but the terminal devices cannot work with data at single wavelength. 
 ### Dispersion Shifted Fibre (DSF)
 Exhibits 0 dispersion at 1550 nm. 
+
 ![](../Meta/Pasted%20image%2020240423213255.png)
+
 Compatible with modern light wave systems BUT if we shift either way from 1550 nm wavelength -> It's suitable only for single wavelength operation and not for multi-wavelength operations. 
 
 #### Four Wave Mixing 
@@ -155,6 +162,7 @@ To overcome this effect, we need dispersion to be small, but not zero.
 
 ### Non-Zero Dispersion Shifted Fibre (NZDSF)
 Modified form of DSF. 
+
 ![](../Meta/Pasted%20image%2020240423214231.png)
 
 	The above three are capable of supporting at most 100 GBPS but not more than that -> order or Terabits per second ke nahi ho paenge. 
@@ -162,18 +170,21 @@ Modified form of DSF.
 ### Dispersion Flattened Fibre (DFF)
 Capable of supporting very high transmission capacity of the order of terabits per second. 
 ![](../Meta/Pasted%20image%2020240423214444.png)
+
 Exhibits 0 dispersion at more than one wavelengths. 
 Capacity of DFF1 > DFF2 since it has a broader spectral range. 
 
 This type can't be fabricated using step index fibre. 
 #### W-Profile or doubly cladded 
 ![](../Meta/Pasted%20image%2020240423214728.png)
+
 Variations are done is core as a step function. 
 a -> core radius 
 n3 -> cladding refractive index
 
 #### Q-Profile or quadrupply cladded 
 ![](../Meta/Pasted%20image%2020240423214830.png)
+
 This is used to get a DFF-1 type characterstic. 
 a -> Core radius 
 n5 -> cladding refractive index
@@ -183,10 +194,12 @@ Used to compensate the positive dispersion exhibited by the millions of kms of C
 Capable of generating large negative dispersion.
 
 ![](../Meta/Pasted%20image%2020240423220523.png)
+
 Positive dispersion of CSMF needs to be compensated at regular intervals by inserting a drum of fibre consisting of DCF and mode converter. We want to compensate not at a single wavelength, but multiple. 
 
 ![](../Meta/Pasted%20image%2020240423220716.png)
 ![](../Meta/Pasted%20image%2020240423220727.png)
+
 Pre-compensation -> DCF installed at transmitter end.
 Post-compensation -> DCF installed at receiver end. 
 
@@ -196,10 +209,12 @@ Q Profile is suitable for generating large negative dispersion.
 Multiple data is transmitted over different wavelengths down the same optical fibre by multiplexing them in wavelength domain. 
 
 ![](../Meta/Pasted%20image%2020240423215522.png)
+
 All the devices applied after optical transmitter and before detector need to be operated in optical domain otherwise there may occur bottlenecks, resulting in loss of data transmission. 
 
 #### Channel Wavelength Division Multiplexing (CWDM)
 1-1 nm ka gap hota hain between successive multiplexed wavelengths. 
+
 ![](../Meta/Pasted%20image%2020240423215301.png)
 
 #### Dense Wavelength Division Multiplexing (DWDM)
@@ -224,6 +239,7 @@ Recombination process occurs between the minimum energy level of conduction band
 Above process must conserve both energy and momentum. 
 
 ![](../Meta/Pasted%20image%2020240423222038.png)
+
 Indirect me momentum conserve karne ke lie heat dissipate hogi. 
 Energy conservation ke lie light photon will be generated. 
 
