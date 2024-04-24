@@ -255,3 +255,90 @@ The two recombination processes happen in parallel and so:
 ![](../Meta/Pasted%20image%2020240423222602.png)
 ![](../Meta/Pasted%20image%2020240423222619.png)
 
+There are two types of LEDs - Surface Emitting LED and Edge Emitting LED
+### LASER
+Light Amplification by Stimulated Emission of Radiation 
+
+Is an optical oscillator - comprises a resonant optical amplifier whose output is fed back to its input with matching phase. Any oscillator contains:- 
+- An amplifier with a gain-saturated mechanism 
+- a feedback system 
+- a frequency selection mechanism 
+- an output coupling scheme 
+
+Could be mono-chromatic and coherent (stimulated emission me coherent photon hi generate hota hain)
+
+### Laser Diode 
+Difficult to fabricate. Low power. Long distance applications. 
+- Fabry-Perot (FP)
+- Distributed Feedback (DFB)
+- Distributed Bragg Reflector (DBR) 
+- Distributed Reflector (DR)
+- Vertical Cavity Surface Emitting Laserrs (VCSEL)
+
+![](../Meta/Pasted%20image%2020240424075439.png)
+![](../Meta/Pasted%20image%2020240424075517.png)
+
+### Optical Transmission (digital)
+Electric input pulses -> LED/LASER -> Optical power pulses -> Optical fibre -> Attenuated and distorted optical power pulses -> Photodiode -> Electric current -> Amplifier and filter -> Decision circuit and pulse regenerator -> Regenerated output
+
+Photodetection is done by one of the following:- 
+- Thermal effects 
+- Wave interaction effects 
+- Photon effects 
+
+Photodiode ki VI-characterstics is sensitive to the intensity of an incident light wave. 
+
+### Positive-Intrinsic-Negative (PIN) Photodetector 
+
+
+### Optical amplifier 
+Agar hame kam bit error rate achieve karna hain toh hame OSNR bhi accordingly rkhna padta hain.
+Optical amplifiers hamari OSNR ko kaafi degrade kar dete hain. Islie we need a finite number of OAs for a given OSNR -> this gives rise to the need for multi-stage OA design. 
+_Gain bandwidth_ - range of wavelengths over which the amplifier is effective.
+_Gain Efficiency_ - Measures the gain as a function of input power. 
+_Gain Saturation_ - value of output power at which output power no longer increases with an increase in the input power. Output power at which there's a 3dB reduction in ratio of output to input power. 
+
+There are mainly two types of Optical Amplifiers:- 
+- Semiconductor Laser Amplifier (SLA)
+- Active-fibre or Doped-Fibre
+	- Erbium Doped Fibre Amplifier(EDFA)
+	- Fibre Raman Amplifier (FRA)
+	- Thulium Doped Fibre Amplifier (TDFA)
+
+### EDFA - Erbium Doped Fibre Amplifier 
+![](../Meta/Pasted%20image%2020240424080807.png)
+
+Photons at 1480 or 980 nm activate electrons into a metastable state and electrons falling back emit light at 1550 nm. 
+
+### Fibre Bragg Gratings (FBG)
+Periodic refractive index variation written along the fibre core using high power UV radiation. 
+All wavelengths satisfying the condition lambda = 2* period* neff are reflected
+
+![](../Meta/Pasted%20image%2020240424081440.png)
+
+There can be two types of etching:- 
+- Regular interval pattern - reflective at one wavelength 
+- Increasing intervals - chirped FBG compensation for chromatic dispersion 
+
+### Optical circulators and isolators
+
+### SONET - Synchronous Optical Network 
+STS - Synchronous Transport Signal 
+STM - Synchronous Transport Module 
+SDH - Synchronous Digital Hierarchy 
+
+90 bytes/row - 9rows/frame - 125 microseconds/frame
+ oCn contains 810n bytes over 125 microseconds. 
+
+### Connectors 
+Provides a demountable connection between two fibres or a fibre and a source or detector. 
+
+### Couplers 
+Either split optical signals into multiple paths or combine multiple signals on one path. Two output differ 90-degrees in phase.
+![](../Meta/Pasted%20image%2020240424082209.png)
+![](../Meta/Pasted%20image%2020240424082223.png)
+
+Optical couplers with more than 4ports are called star couplers: 
+- Transmission star coupler 
+- Reflection Star coupler 
+Excess loss: Assures that the total output is never as high as the input. 
